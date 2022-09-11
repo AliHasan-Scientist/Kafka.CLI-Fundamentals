@@ -1,1 +1,1 @@
-kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic verify-identity --group my-first-consumer-group
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic verify-identity --group my-first-consumer-group 

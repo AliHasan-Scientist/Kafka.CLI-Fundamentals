@@ -1,0 +1,1 @@
+t-consumer-group --execute --all-topics

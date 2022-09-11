@@ -1,0 +1,1 @@
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic verify-identity --from-beginning --formatter kafka.tools.DefaultMessageFormatter --property print.timestamp=true --property print.key=true print.value=true
